@@ -15,4 +15,4 @@
 - Cron to schedule daily data updates
 - Streamlit to visualize and interact with data
 
-*Communication*: The data was visualized as a web application using Streamlit and deployed locally. A brief presentation was prepared to communicate the project design and results, which can be found [here]().
+*Communication*: The data was visualized as a web application using Streamlit and deployed locally. A brief presentation was prepared to communicate the project design and results, which can be found [here](https://github.com/ngoodby/engineering_project/blob/main/engineering_slides.pdf).
