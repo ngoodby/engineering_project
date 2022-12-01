@@ -1,0 +1,1 @@
+0 6 * * * /Users/nathanielgoodby/Desktop/Metis Resources/engineering/engineering_project/get_data.py
